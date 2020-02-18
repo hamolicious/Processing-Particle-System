@@ -4,21 +4,21 @@ A particle system inspired by <a href="https://github.com/shiffman">Shiffman</a>
 <br>
 
 The particle system contains:
-<li>Particles
+<li>Particles<br>
   Most basic form of particle, minimal realtime controll by the user.
   Automatically placed upon runtime
 <br>
 
-<li>Attractors
+<li>Attractors<br>
   Attract particles towards themselves.
   Placed via LMB
 <br>
 
-<li>Repulsors
+<li>Repulsors<br>
   Repulse the particles away from themselves.
   Placed via RMB
 <br>
 
-<li>Impulsers
+<li>Impulsers<br>
   When a particle is in range, the particle will be shot out.
   Placed via SCROLL up or down
